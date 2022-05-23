@@ -1,5 +1,7 @@
 const mainRouteController = (req, res) => {
-    console.log(req.headers);
+    const { name, nick, pass } = req.headers;
+    res.setHeader('Set-Cookie', [`name: ${name}`]);
+    console.log(res.getHeaders());
     res.sendStatus(200);
 }
 

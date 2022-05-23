@@ -1,10 +1,10 @@
 import axiosConfig from "./axiosConfig";
 
 interface IConfig {
-    config: { name: String, nick: String, pass: String }
+    body: { name?: String, nick?: String, pass?: String }
 }
 
-export default async function getHomeRequest({ config }: IConfig){
-    const request = await axiosConfig.get('/');
+export default async function getHomeRequest({ body }: IConfig){
+    const request = await axiosConfig.post('/', body);
     return request;
 }

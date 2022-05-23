@@ -1,0 +1,7 @@
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Cookies
+https://nodejs.org/dist/latest-v8.x/docs/api/http.html#http_response_setheader_name_value
+https://www.techtudo.com.br/noticias/2018/10/o-que-sao-cookies-entenda-os-dados-que-os-sites-guardam-sobre-voce.ghtml
+https://reactgo.com/react-set-cookie/
+https://medium.com/@desenvolvedormateusbarbosa/qual-%C3%A9-a-diferen%C3%A7a-entre-sessionstorage-localstorage-e-cookies-93b49eea747c
+https://www.npmjs.com/package/react-cookie
+https://www.tutorialspoint.com/how-to-set-cookies-in-reactjs#:~:text=%20How%20to%20set%20cookies%20in%20ReactJS%3F%20,the%20cookies%20are%20set%2C%20the%20value...%20More%20
