@@ -1,0 +1,19 @@
+{
+  "name": "poc-cookies-back",
+  "version": "1.0.0",
+  "description": "back-end for poc cookies",
+  "main": "server.js",
+  "repository": "https://github.com/JsonLucas/research",
+  "author": "JsonLucas",
+  "type": "module",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon ./server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
